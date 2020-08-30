@@ -1,0 +1,19 @@
+@media (max-width: 575.98px) {
+    .home__header {padding: 10px 20px;}
+    .home__header a {margin-right: 10px; font-size: 14px;}
+    .home__headerRight > .MuiSvgIcon-root {margin-right: 10px;}
+    .home__body {margin-top: 10%;}
+    .home__body > img {height: 60px;}
+    .search__input {padding: 5px 10px; height: 25px; margin-top: 40px;}
+    .search__input > input {padding: 5px 10px; font-size: small;}
+    .search__buttons {margin-top: 20px;} 
+    .search__buttons button {margin: 5px; padding: 2px 5px; font-size: small;}
+    .searchPage__header {flex-direction: column; padding: 15px;}
+    .searchPage__logo {height: 30px;}
+    .searchPage__headerBody .search .search__input{width: 250px;} 
+    .searchPage__results {margin-left: 10px;margin-bottom: 20px;}
+    .searchPage__resultTitle > h2{font-size: 20px;}
+    .searchPage__result {margin: 20px 5px;}
+    .search__resultSnippet {font-size: 14px;}
+    .searchPage__option{font-size: small;}
+}

@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css'
+import './responsive.css'
 import Homepage from './pages/Homepage';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import SearchPage from './pages/SearchPage';

@@ -38,7 +38,7 @@ const Search = ({ hideButtons = false }) => {
                     <Button variant="outlined">I'm Feeling Lucky</Button>
                 </div>
             ): (
-                <div className="search__buttonsHide">
+                <div className="search__buttons search__buttonsHide">
                     <Button type="submit" variant="outlined" onClick={onSearch}>Google Search</Button>
                     <Button variant="outlined">I'm Feeling Lucky</Button>
                 </div>
